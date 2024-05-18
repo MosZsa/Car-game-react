@@ -1,0 +1,27 @@
+/* src/App.css */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; 
+}
+
+.canvas {
+  width: 100%;
+  height: 100%;
+  background: #000; 
+}
+
+
+.score{
+  position: absolute;
+  z-index: 1000;  
+  color: white;
+  top: 40px   
+}
+
+.restart-button {
+  position: absolute;
+  z-index: 1000;  
+  color: white;   
+}
