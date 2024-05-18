@@ -64,7 +64,6 @@
 
 ```plaintext
 Car-game-react/
-├── node_modules
 ├── public/
 │   ├── images/
 │   │   ├── car.png
@@ -72,13 +71,17 @@ Car-game-react/
 │   │   ├── road.jpg
 │   ├── Music/
 │   │   ├── background_music.mp3
+│   ├── favicon.ico
 │   ├── index.html
 ├── src/
 │   ├── components/
 │   │   ├── Car.js
+│   │   ├── Game.js
 │   │   ├── OtherCars.js
 │   │   ├── Road.js
 │   ├── App.js
+│   ├── App.css
 │   ├── index.js
+│   ├── index.css
 ├── package.json
 └── README.md
