@@ -1,6 +1,6 @@
 # Car Game
 
-![Game Screenshot](path_to_screenshot.png)
+![path_to_screenshot](https://github.com/MosZsa/MosZsa/assets/162978908/ade184bc-8c74-4c48-8a37-a59e73061300)
 
 ## Описание
 
