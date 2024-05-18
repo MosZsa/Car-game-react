@@ -1,6 +1,6 @@
 # Car Game
 
-![path_to_screenshot](https://github.com/MosZsa/MosZsa/assets/162978908/ade184bc-8c74-4c48-8a37-a59e73061300)
+![path_to_screenshot](https://github.com/MosZsa/Car-game-react/assets/162978908/5614b810-3026-45f9-af03-b670e8703706)
 
 ## Описание
 
@@ -33,12 +33,12 @@
 
 1. Клонируйте репозиторий:
     ```sh
-    git clone https://github.com/yourusername/car-game.git
+    git clone https://github.com/MosZsa/Car-game-react
     ```
 
 2. Перейдите в директорию проекта:
     ```sh
-    cd car-game
+    cd Car-game-react
     ```
 
 3. Установите зависимости:
@@ -59,7 +59,7 @@
 ## Структура игры
 
 ```plaintext
-car-game/
+Car-game-react/
 ├── node_modules
 ├── public/
 │   ├── images/
